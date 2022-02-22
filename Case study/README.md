@@ -30,3 +30,4 @@
 * The reverse current is 5uA which is negligible but it can withstand reverse voltage peak up to 1000V.
 ## Resistor 1*1k
 *	 A 1k Ω resistor has a value of 1,000 ohms and the number we will code is 1,000.
+
