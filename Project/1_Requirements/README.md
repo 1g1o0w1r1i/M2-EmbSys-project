@@ -20,14 +20,13 @@ This project works in three parts -
 *	This 16*2 LCD display to  displays the status of the fan. (ie).it shows the temperature value by controlling the fan speed. 
 ## Arduino UNO Board 
 *	The Arduino Uno is an open-source microcontroller board based on the Microchip ATmega328P microcontroller.
-*	It is a prototyping platform and its simplicity makes it ideal for hobbyists to use as well as professionals.
 * The board has 14 digital I/O pins (six capable of PWM output), 6 analog I/O pins,a 16 MHz crystal oscillator, a USB connection, 
 a power jack, an ICSP header, and a reset button.
 * It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it 
 with a AC-to-DC adapter or battery to get started.
 * It is programmable with the Arduino IDE (Integrated Development Environment), via a type B USB cable which can be powered by the USB cable or by an external 9-volt battery, though it accepts voltages between 7 and 20 volts.
 * We use an arduino board to control the speed of the fan. 
-![arduino_uno](https://user-images.githubusercontent.com/98837668/155003074-f5221b39-b07a-462e-8def-85b0489a5005.jpg
+![Arduino UNO Pic](https://user-images.githubusercontent.com/98813206/155196006-24f5e5a2-9239-4b8a-bde0-15aeab71308f.jpg)
 
 ##  LM35 Temperature Sensor 
 *	A thermometer is a device measures the temperature. A Thermometer consists a temperature sensing element that senses environment temperature and provides the result to the suitable devices. During this, a digital thermometer using LM35 temperature sensor which is employed to measure the temperature. 
