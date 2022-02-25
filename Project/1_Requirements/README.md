@@ -72,6 +72,17 @@ with a AC-to-DC adapter or battery to get started.
 
 ![12v dc water pump](https://user-images.githubusercontent.com/98813206/155710750-0e5ad2f5-7df8-4859-907a-8eb4763911e7.jpg)
 
+# 4W's and 1'H
+# Who
+This is useful for farmers and workers in agricultural field, terrace gardeners etc.
+# What
+* it helps to increase the production from 25% to 30%.
+# When
+* The user provides right amount of water at right time by giving instructions. 
+# WHERE
+* There is lot of agricultural research and innovation  centre recommonding smart irrigation all over the world.
+# HOW
+* This issue can solved now by initiating this basic idea of irrigation and in future, we will use well developed equipments with innovative ideas in order to reduce or no man power while doing  agricultural activities.
 
 # SWOT ANALYSIS
 # STRENGTHS
