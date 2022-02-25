@@ -90,4 +90,4 @@ In this project we are going to discuss making a temperature-controlled fan usin
 |L_02 |	Celcius is used for tracking the temperature between the ground and the ceiling|
 |L_03 |	There is no changes in temperature means the fan doesn't rotates|
 
-
+ 
