@@ -1,6 +1,9 @@
 #define BLYNK_PRINT SwSerial
+
 #define BlynkSimpleStream
+
 #define dhtpin 3
+
 #include<SoftwareSerial.h>
 SoftwareSerial SwSerial(10, 11); // RX, TX 
 #include<BlynkSimpleStream.h>
