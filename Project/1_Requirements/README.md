@@ -1,4 +1,4 @@
-# PROJECT----> GARDUINO
+# PROJECT
 # GARDUINO
 # Abstract
 * India has a population as much as 17.7% of the world’s population but has only about 4% of the world’s freshwater resources. Biggest problems faced by farmers in India is nearly half of the cropped area are under irrigation. Irrigation is the most important agricultural input in a tropical monsoon country like India where rainfall is uncertain, unreliable and erratic.India cannot achieve sustained progress in agriculture unless and until huge cropped area is brought under assured irrigation. 
