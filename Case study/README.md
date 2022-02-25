@@ -1,4 +1,5 @@
-# CaseStudy 1:Temperature Control Fan
+# CaseStudy 1:Temperature Control Fan  
+                                  
 #The below block diagram has the major parts for the controlling the temperature using fan
  ![Blockdiagram of temperature control fan](https://user-images.githubusercontent.com/98813206/154816211-dad6323e-e61f-48bd-af66-c442916236b2.png)
 
@@ -51,12 +52,6 @@ with a AC-to-DC adapter or battery to get started.
 * The reverse current is 5uA which is negligible but it can withstand reverse voltage peak up to 1000V.
 ## Resistor 1*1k
 *	 A 1k Ω resistor has a value of 1,000 ohms and the number we will code is 1,000.
-#  BLOCK DIAGRAM
-
- ![Blockdiagram of temperature control fan](https://user-images.githubusercontent.com/98813206/154816211-dad6323e-e61f-48bd-af66-c442916236b2.png)
-
-
-
 
 # REQUIREMENT MODELLING
 
