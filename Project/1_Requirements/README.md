@@ -1,10 +1,12 @@
 # PROJECT
 # GARDUINO
-# Abstract
-* India has a population as much as 17.7% of the world’s population but has only about 4% of the world’s freshwater resources. Biggest problems faced by farmers in India is nearly half of the cropped area are under irrigation. Irrigation is the most important agricultural input in a tropical monsoon country like India where rainfall is uncertain, unreliable and erratic.India cannot achieve sustained progress in agriculture unless and until huge cropped area is brought under assured irrigation. 
-* The only recommended solution to this issue is modernizing irrigation system using smart technologies. This project aims at developing the  irrigation system which provide adequate water required by crop by monitoring the moisture of soil and climate condition in order to prevent the wastage of water resource. It will also have many advantages for farmers.
-# INTRODUCTION
-GARDUINO is an Arduino-based system to supervise the temperature, humidity, soil moisture and light status of our plant and automatically provide its necessary needs like light, water, and pure fresh air and even some sensors are used to control some actuators.
+# Description
+GARDUINO is an ARDUINO based system to supervise the temperature, humidity, soil moisture and light status of our plant and automatically provide its necessary needs like light, water, and pure fresh air and evensome sensors are used to control some actuators. The watering of plants is controlled with a soil moisture sensor which is used to turn on the water pump as and when required. The temperature/humidity sensor is responsible for the turning on and off of a 12V DC cooling fans and light. The Water Motor ,Light and Fan can be controlled remotely using google assistant or Garduino Website. The soil sensor ,Temperature and the humidity value can be monitored live using the garduino website.
+
+# License
+This file is part of GARDUINO.GARDUINO is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License,or(at your option) any later version . GARDUINO is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU General Public License for more details.You should have received a copy of the GNU General Public License along with GARDUINO. If not, see http://www.gnu.org/licenses/.
+
 # RESEARCH
 * Proposed a microcontroller based controlled remote irrigation system developed for the agricultural plantation, which is placed at the remote location and required water provides for plantation when the humidity of the soil goes below the set-point value.  If the set-point value is high, then the motor is turned ON, otherwise the the motor is turned OFF. 
 # FLOW CHART OF GARDUINO
