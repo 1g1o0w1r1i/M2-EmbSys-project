@@ -1,5 +1,15 @@
 # PROJECT - GARDUINO
 
+# Folder Structure
+|Folder|	Description|
+|:---:|:---:|
+|1_Requirements|	Documents detailing requirements and research|
+|2_Architecture|	Documents specifying design details|
+|3_Implementation	|All code and documentation|
+|4_Test_plan and output|	Documents with test plans and procedures|
+|5_Report| Documents describing the whole project|
+|6_Images and Videos| pictures and videos of the project|
+
 # Badge of Codiga
 
 ## Score
