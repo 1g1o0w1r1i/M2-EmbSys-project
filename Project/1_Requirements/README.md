@@ -35,6 +35,24 @@ See the GNU General Public License for more details.You should have received a c
 * RELAY
 * DC 12V WATER PUMP SUBMERSIBLE
 
+# REQUIREMENT MODELLING
+
+# Table : High level test plan
+|Test ID| 	Description|
+|---|----|
+|H_01|	The sensor senses the temperature and moisture level of the soil|
+|H_02|	based on that temperature and moisture, it will water to all crops|
+|H_03|	set point of water is programmed with certain level|
+|H_04| based on the comment from arduino, the water pump will provides water to the crops|
+|H_05| temperature and humidity value can be monitored live with the help of graph|
+
+# Table : Low level test plan
+|Test ID| 	Description|
+|---|---|
+|L_01 | Works according to the soil moisture condition and temperature changes |
+|L_02 |	Water motor, light and fan can be controlled remotely using Google assistant |
+|L_03 |	provides right amount of water at right time|
+
 # 4W's and 1'H
 # Who
 This is useful for farmers and workers in agricultural field, terrace gardeners etc.
@@ -63,23 +81,7 @@ This is useful for farmers and workers in agricultural field, terrace gardeners 
 * Agriculture still uses conventional methods for many cases so that a huge opportunities are still awaiting in rural India.
 
 
-# REQUIREMENT MODELLING
 
-# Table : High level test plan
-|Test ID| 	Description|
-|---|----|
-|H_01|	The sensor senses the temperature and moisture level of the soil|
-|H_02|	based on that temperature and moisture, it will water to all crops|
-|H_03|	set point of water is programmed with certain level|
-|H_04| based on the comment from arduino, the water pump will provides water to the crops|
-|H_05| temperature and humidity value can be monitored live with the help of graph|
-
-# Table : Low level test plan
-|Test ID| 	Description|
-|---|---|
-|L_01 | Works according to the soil moisture condition and temperature changes |
-|L_02 |	Water motor, light and fan can be controlled remotely using Google assistant |
-|L_03 |	provides right amount of water at right time|
 
 # FEATURES
 * This provides right amount of water at right time. 
