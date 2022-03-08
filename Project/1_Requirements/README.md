@@ -53,7 +53,7 @@ See the GNU General Public License for more details.You should have received a c
 |L_02 |	Water motor, light and fan can be controlled remotely using Google assistant |
 |L_03 |	provides right amount of water at right time|
 
-# 4W's and 1'H
+# 4W's and 1'H 
 # Who
 This is useful for farmers and workers in agricultural field, terrace gardeners etc.
 # What
