@@ -6,6 +6,12 @@
 GARDUINO is an Arduino-based system to supervise the temperature, humidity, soil moisture and light status of our plant and automatically provide its necessary needs like light, water, and pure fresh air and even some sensors are used to control some actuators.
 # RESEARCH
 * Proposed a microcontroller based controlled remote irrigation system developed for the agricultural plantation, which is placed at the remote location and required water provides for plantation when the humidity of the soil goes below the set-point value.  If the set-point value is high, then the motor is turned ON, otherwise the the motor is turned OFF. 
+# Description
+GARDUINO is an ARDUINO based system to supervise the temperature, humidity, soil moisture and light status of our plant and automatically provide its necessary needs like light, water, and pure fresh air and evensome sensors are used to control some actuators. The watering of plants is controlled with a soil moisture sensor which is used to turn on the water pump as and when required. The temperature/humidity sensor is responsible for the turning on and off of a 12V DC cooling fans and light. The Water Motor ,Light and Fan can be controlled remotely using google assistant or Garduino Website. The soil sensor ,Temperature and the humidity value can be monitored live using the garduino website.
+
+# License
+This file is part of GARDUINO.GARDUINO is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License,or(at your option) any later version . GARDUINO is distributed in the hope that it will be useful,but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See the GNU General Public License for more details.You should have received a copy of the GNU General Public License along with GARDUINO. If not, see http://www.gnu.org/licenses/.
 # FLOW CHART OF GARDUINO
 ![Flow chart of garduino](https://user-images.githubusercontent.com/98813206/155710916-2e4281a7-510a-4fe0-a452-ff85ed3a1582.jpg)
 
